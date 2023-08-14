@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dannyroth218
 - 👀 I’m interested in programming, photograpy, and other creative pursuits!
-- 🌱 I’m currently learning Python and Javascript.
-- 📫 You can reach me at https://timothyroth.com
+- 🌱 I’m currently finishing my Master's degree in Software Engineering.
+- 📫 You can reach me at https://dannyroth.dev
 
 <!---
 dannyroth218/dannyroth218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
