@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dannyroth218
+- 👋 Hi, I’m @dannyroth218 and make videos on Youtube - https://youtube.com/@CozyKumaCoding
 - 👀 I’m interested in programming, photograpy, and other creative pursuits!
-- 🌱 I’m currently finishing my Master's degree in Software Engineering.
-- 📫 You can reach me at https://dannyroth.dev
+- 🧑‍💻 I have a bachelor's degree in Software enginnering
+- 📫 You can reach me at https://cozykumacoding.com
 
 <!---
 dannyroth218/dannyroth218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
